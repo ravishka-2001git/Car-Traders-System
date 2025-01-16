@@ -1,0 +1,813 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|c:\\users\\ravishka\\onedrive\\documents\\abc car traders\\abc car traders\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\carpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\carpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\carpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\carpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\addcarspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\addcarspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\orderstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\orderstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\orderpage_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\orderpage_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\orderpage_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\orderpage_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\userorderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\userorderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\buynow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\buynow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\buynow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\buynow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\orderstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\orderstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\carpartspage_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\carpartspage_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\carpartspage_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\carpartspage_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\carpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\carpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\carpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\carpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\addcarspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\addcarspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\userorderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\userorderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\dashboard_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\dashboard_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\dashboard_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\dashboard_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\updatecarspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\updatecarspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\from1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\from1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\from1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\from1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\user_carpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\user_carpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\addcarpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\addcarpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\addcarpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\addcarpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ABC Car Traders||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\user_carpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\user_carpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\dashboard_user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\dashboard_user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\addnewadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\addnewadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\userorderpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\userorderpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\updatecarpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\updatecarpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\updatecarspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\updatecarspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\addnewadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\addnewadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\carpartspage_user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\carpartspage_user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_JL1GD2G_SQLEXPRESS/LoginPage/True/SqlTable/dbo.OrderTable.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\updatecarpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\updatecarpartspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\registerpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\registerpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\abc car traders\\from1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4182BD5D-7457-4F97-99C2-6052D8768335}|ABC Car Traders\\ABC Car Traders.csproj|solutionrelative:abc car traders\\from1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Buynow.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Buynow.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Buynow.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Buynow.cs",
+              "RelativeToolTip": "ABC Car Traders\\Buynow.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwHcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:26:23.98Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\CarPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\CarPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T05:47:00.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\CarPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\CarPage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:14:02.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\ReportPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\ReportPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\ReportPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\ReportPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:51:23.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\ReportPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\ReportPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\ReportPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\ReportPage.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAswKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:58:59.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderPage_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\OrderPage_Admin.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\OrderPage_Admin.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\OrderPage_Admin.cs",
+              "RelativeToolTip": "ABC Car Traders\\OrderPage_Admin.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAA4wG4AAADoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:28:02.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Customers.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Customers.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Customers.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:37:39.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Customers.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Customers.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Customers.cs",
+              "RelativeToolTip": "ABC Car Traders\\Customers.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:17:07.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderStatusForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\OrderStatusForm.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\OrderStatusForm.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\OrderStatusForm.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\OrderStatusForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:58:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCarsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddCarsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\AddCarsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddCarsPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\AddCarsPage.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:15:39.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPage_Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\OrderPage_Admin.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\OrderPage_Admin.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\OrderPage_Admin.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\OrderPage_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:51:34.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserOrderPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UserOrderPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\UserOrderPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UserOrderPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\UserOrderPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:36:54.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Buynow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Buynow.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Buynow.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Buynow.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\Buynow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:24:40.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarPartsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\CarPartsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\CarPartsPage.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAswEcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:42:34.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderStatusForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\OrderStatusForm.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\OrderStatusForm.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\OrderStatusForm.cs",
+              "RelativeToolTip": "ABC Car Traders\\OrderStatusForm.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAKgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:03:30.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarPartsPage_User.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage_User.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\CarPartsPage_User.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage_User.cs",
+              "RelativeToolTip": "ABC Car Traders\\CarPartsPage_User.cs",
+              "ViewState": "AQIAANABAAAAAAAAAAAuwNkBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:01:51.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarPartsPage_User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage_User.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\CarPartsPage_User.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage_User.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\CarPartsPage_User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:04:18.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarPartsPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\CarPartsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\CarPartsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:20:41.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddCarsPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddCarsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\AddCarsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddCarsPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\AddCarsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:06:15.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserOrderPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UserOrderPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\UserOrderPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UserOrderPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\UserOrderPage.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAIwKYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:40:09.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\RegisterPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\RegisterPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\RegisterPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:31:51.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard_User.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_User.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Dashboard_User.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_User.cs",
+              "RelativeToolTip": "ABC Car Traders\\Dashboard_User.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:04:39.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard_User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_User.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Dashboard_User.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_User.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\Dashboard_User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:36:13.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Program.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Program.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Program.cs",
+              "RelativeToolTip": "ABC Car Traders\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:13:17.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateCarsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UpdateCarsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\UpdateCarsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UpdateCarsPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\UpdateCarsPage.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAQwF0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:17:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dashboard_Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_Admin.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Dashboard_Admin.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_Admin.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\Dashboard_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T05:03:58.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Loginpage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Loginpage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Loginpage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Loginpage.cs*",
+              "RelativeToolTip": "ABC Car Traders\\Loginpage.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:25:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "from1.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\from1.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\from1.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\from1.cs",
+              "RelativeToolTip": "ABC Car Traders\\from1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:32:39.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "from1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\from1.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\from1.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\from1.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\from1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:57:10.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Loginpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Loginpage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Loginpage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Loginpage.cs [Design]*",
+              "RelativeToolTip": "ABC Car Traders\\Loginpage.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:35:15.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User_CarPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\User_CarPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\User_CarPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\User_CarPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\User_CarPage.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwPsBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:51:02.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\RegisterPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\RegisterPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\RegisterPage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:18:32.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddCarPartsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddCarPartsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\AddCarPartsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddCarPartsPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\AddCarPartsPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:25:04.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddCarPartsPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddCarPartsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\AddCarPartsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddCarPartsPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\AddCarPartsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:20:53.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ABC Car Traders",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\ABC Car Traders.csproj",
+              "RelativeDocumentMoniker": "ABC Car Traders\\ABC Car Traders.csproj",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\ABC Car Traders.csproj",
+              "RelativeToolTip": "ABC Car Traders\\ABC Car Traders.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-17T04:42:45.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User_CarPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\User_CarPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\User_CarPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\User_CarPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\User_CarPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:47:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dashboard_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_Admin.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Dashboard_Admin.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_Admin.cs",
+              "RelativeToolTip": "ABC Car Traders\\Dashboard_Admin.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAMwEEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:11:25.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dashboard_User.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_User.Designer.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Dashboard_User.Designer.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Dashboard_User.Designer.cs",
+              "RelativeToolTip": "ABC Car Traders\\Dashboard_User.Designer.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAADwv5AAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:22:57.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddNewAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddNewAdmin.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\AddNewAdmin.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddNewAdmin.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\AddNewAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:48:15.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddNewAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddNewAdmin.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\AddNewAdmin.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\AddNewAdmin.cs",
+              "RelativeToolTip": "ABC Car Traders\\AddNewAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:51:02.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserOrderPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UserOrderPage.Designer.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\UserOrderPage.Designer.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UserOrderPage.Designer.cs",
+              "RelativeToolTip": "ABC Car Traders\\UserOrderPage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:11:53.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateCarPartsPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UpdateCarPartsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\UpdateCarPartsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UpdateCarPartsPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\UpdateCarPartsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:42:57.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateCarsPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UpdateCarsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\UpdateCarsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UpdateCarsPage.cs [Design]",
+              "RelativeToolTip": "ABC Car Traders\\UpdateCarsPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:28:59.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\packages.config",
+              "RelativeDocumentMoniker": "ABC Car Traders\\packages.config",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\packages.config",
+              "RelativeToolTip": "ABC Car Traders\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-16T12:44:38.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CarPartsPage_User.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage_User.Designer.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\CarPartsPage_User.Designer.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\CarPartsPage_User.Designer.cs",
+              "RelativeToolTip": "ABC Car Traders\\CarPartsPage_User.Designer.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAADwv64AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:22:53.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\App.config",
+              "RelativeDocumentMoniker": "ABC Car Traders\\App.config",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\App.config",
+              "RelativeToolTip": "ABC Car Traders\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-15T18:47:51.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "dbo.OrderTable [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_JL1GD2G_SQLEXPRESS/LoginPage/True/SqlTable/dbo.OrderTable.sql",
+              "ToolTip": "dbo.OrderTable [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-20T09:13:33.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UpdateCarPartsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UpdateCarPartsPage.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\UpdateCarPartsPage.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\UpdateCarPartsPage.cs",
+              "RelativeToolTip": "ABC Car Traders\\UpdateCarPartsPage.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAUwHEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:31:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RegisterPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\RegisterPage.Designer.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\RegisterPage.Designer.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\RegisterPage.Designer.cs",
+              "RelativeToolTip": "ABC Car Traders\\RegisterPage.Designer.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAkwAQBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:18:49.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Loginpage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Loginpage.Designer.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\Loginpage.Designer.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\Loginpage.Designer.cs",
+              "RelativeToolTip": "ABC Car Traders\\Loginpage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:02:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "from1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\from1.Designer.cs",
+              "RelativeDocumentMoniker": "ABC Car Traders\\from1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ravishka\\OneDrive\\Documents\\ABC Car Traders\\ABC Car Traders\\from1.Designer.cs",
+              "RelativeToolTip": "ABC Car Traders\\from1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:41:20.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
